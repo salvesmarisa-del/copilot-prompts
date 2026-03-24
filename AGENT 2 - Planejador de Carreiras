@@ -1,181 +1,158 @@
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+# 📊 Trilha Analista de Dados - 120 dias (5h/semana)
 
-Carreira em Tecnologia
+## Bloco 1 — Fundamentos (Semanas 1–5)
 
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+### Semana 1 (Dia 1–7)
+- **Foco:** Introdução à área de dados
+- **Tópicos:** O que faz um analista de dados; Tipos de dados; Conceitos de banco de dados; Modelagem relacional; Entidades e relacionamentos
+- **Ferramentas:** Excel; Google Sheets
+- **Recursos:** DIO Formação Analista de Dados; YouTube: Curso de Banco de Dados
+- **Exercício:** Criar modelo ER simples com 3 tabelas
+- **Entregável GitHub:** modelo_relacional.png
+- **Horas:** 5h
 
+### Semana 2 (Dia 8–14)
+- **Foco:** SQL básico - SELECT e filtros
+- **Tópicos:** SELECT; WHERE; ORDER BY; LIMIT; DISTINCT
+- **Ferramentas:** SQL Server; SSMS
+- **Recursos:** Microsoft Learn: Introdução ao SQL; YouTube: Curso SQL Server Básico
+- **Exercício:** Escrever 10 queries com SELECT e WHERE
+- **Entregável GitHub:** queries_basicas.sql
+- **Horas:** 5h
 
-## 🎯 SUA MISSÃO
+### Semana 3 (Dia 15–21)
+- **Foco:** SQL - Agregações e filtros
+- **Tópicos:** GROUP BY; HAVING; COUNT; SUM; AVG; MIN; MAX
+- **Ferramentas:** SQL Server; SSMS
+- **Recursos:** DIO: Introdução ao SQL; W3Schools SQL
+- **Exercício:** Criar 5 queries com agregações e filtros
+- **Entregável GitHub:** queries_agregacoes.sql
+- **Horas:** 5h
 
-Receber as informações do Agent 1 e gerar um plano completo de estudos com:
-- Visão do dia a dia
-- Mapa de skills
-- Roadmap de 90 dias
-- Projeto de portfólio
-- Roteiro de entrevistas
-- Trilha DIO
+### Semana 4 (Dia 22–28)
+- **Foco:** SQL - Joins e subqueries
+- **Tópicos:** INNER JOIN; LEFT JOIN; RIGHT JOIN; Subqueries; Aliases
+- **Ferramentas:** SQL Server; SSMS
+- **Recursos:** Microsoft Learn: Joins SQL; SQLZoo
+- **Exercício:** Criar 5 queries com JOINs e subqueries
+- **Entregável GitHub:** queries_joins.sql
+- **Horas:** 5h
 
+### Semana 5 (Dia 29–35)
+- **Foco:** GitHub e versionamento
+- **Tópicos:** Criar conta GitHub; Git init; commit; push; README básico; estrutura de repositório
+- **Ferramentas:** Git; GitHub Desktop
+- **Recursos:** GitHub Docs; Curso Git e GitHub DIO
+- **Exercício:** Criar repositório e subir arquivos SQL
+- **Entregável GitHub:** repositório com scripts SQL e README
+- **Horas:** 5h
 
-## 📥 DADOS QUE VOCÊ RECEBE
+---
 
-O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+## Bloco 2 — Visualização e BI (Semanas 6–9)
 
+### Semana 6 (Dia 36–42)
+- **Foco:** Introdução ao Power BI
+- **Tópicos:** Instalação; Interface; Importar dados; Limpeza básica; Tipos de visualização
+- **Ferramentas:** Power BI Desktop
+- **Recursos:** Microsoft Learn: Power BI; YouTube: Curso Power BI Básico
+- **Exercício:** Criar gráfico de barras com dados de vendas
+- **Entregável GitHub:** grafico_barras.pbix
+- **Horas:** 5h
 
-## 🎬 INICIAR CONVERSA
+### Semana 7 (Dia 43–49)
+- **Foco:** Modelagem e ETL no Power BI
+- **Tópicos:** Power Query; Transformações; Relacionamentos; Modelagem de dados; Tabelas fato e dimensão
+- **Ferramentas:** Power BI Desktop
+- **Recursos:** DIO: Power BI para Iniciantes; Microsoft Learn: Power Query
+- **Exercício:** Criar modelo com 2 tabelas e relacionamento
+- **Entregável GitHub:** modelo_powerbi.pbix
+- **Horas:** 5h
 
-"Olá! Recebi suas informações do entrevistador. 
+### Semana 8 (Dia 50–56)
+- **Foco:** DAX básico e medidas
+- **Tópicos:** Medidas; Colunas calculadas; SUMX; CALCULATE; Filtros
+- **Ferramentas:** Power BI Desktop
+- **Recursos:** Microsoft Learn: DAX Básico; YouTube: Curso DAX
+- **Exercício:** Criar 3 medidas com DAX
+- **Entregável GitHub:** medidas_dax.pbix
+- **Horas:** 5h
 
-Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!
+### Semana 9 (Dia 57–63)
+- **Foco:** Storytelling com dados
+- **Tópicos:** Design de dashboards; Cores e hierarquia visual; Filtros interativos; Títulos e insights
+- **Ferramentas:** Power BI Desktop
+- **Recursos:** Livro Storytelling com Dados; YouTube: Design de Dashboards
+- **Exercício:** Criar dashboard com 3 páginas e filtros
+- **Entregável GitHub:** dashboard_final.pbix
+- **Horas:** 5h
 
-Vou montar agora seu plano completo personalizado..."
+---
 
+## Bloco 3 — Programação e Automação (Semanas 10–13)
 
-## 📦 GERAR PLANO COMPLETO
+### Semana 10 (Dia 64–70)
+- **Foco:** Introdução ao Python para dados
+- **Tópicos:** Instalação Anaconda; Jupyter; Tipos de dados; Listas e dicionários; Funções básicas
+- **Ferramentas:** Python; Jupyter Notebook
+- **Recursos:** DIO: Introdução ao Python; Curso em Vídeo Python
+- **Exercício:** Criar notebook com 5 exercícios de listas e funções
+- **Entregável GitHub:** intro_python.ipynb
+- **Horas:** 5h
 
-(use exatamente este formato)
+### Semana 11 (Dia 71–77)
+- **Foco:** Pandas para análise de dados
+- **Tópicos:** DataFrames; Leitura de CSV; Filtros; Agrupamentos; Estatísticas básicas
+- **Ferramentas:** Python; pandas
+- **Recursos:** Kaggle: Python & Pandas; DIO: Análise de Dados com Python
+- **Exercício:** Analisar dataset de vendas com pandas
+- **Entregável GitHub:** analise_vendas.ipynb
+- **Horas:** 5h
 
-🧩 VISÃO DO DIA A DIA
+### Semana 12 (Dia 78–84)
+- **Foco:** Limpeza e tratamento de dados
+- **Tópicos:** Valores nulos; Tipos de dados; Substituições; Normalização; Renomear colunas
+- **Ferramentas:** Python; pandas
+- **Recursos:** Kaggle: Data Cleaning; YouTube: Limpeza de Dados com Pandas
+- **Exercício:** Limpar dataset com dados faltantes e duplicados
+- **Entregável GitHub:** limpeza_dados.ipynb
+- **Horas:** 5h
 
-Como é o trabalho de um(a) (CARREIRA):
+### Semana 13 (Dia 85–91)
+- **Foco:** GitHub para projetos de dados
+- **Tópicos:** Commits frequentes; Branches; README.md; Estrutura de pastas; GitHub Pages
+- **Ferramentas:** Git; GitHub
+- **Recursos:** GitHub Docs; Guia de README para Dados
+- **Exercício:** Organizar repositório com pastas e README
+- **Entregável GitHub:** repositório estruturado com README
+- **Horas:** 5h
 
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
+---
 
-🧠 MAPA DE SKILLS
+## Bloco 4 — Projeto Final e Preparação (Semanas 14–17)
 
-CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
+### Semana 14 (Dia 92–98)
+- **Foco:** Projeto final - parte 1: planejamento
+- **Tópicos:** Escolha de dataset; Definição de perguntas; Planejamento de análise; Estrutura do repositório
+- **Ferramentas:** Kaggle; GitHub
+- **Recursos:** Kaggle Datasets; Awesome Public Datasets
+- **Exercício:** Selecionar dataset e definir 5 perguntas
+- **Entregável GitHub:** projeto_final/README.md; dados_brutos/
+- **Horas:** 5h
 
-NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
+### Semana 15 (Dia 99–105)
+- **Foco:** Projeto final - parte 2: análise
+- **Tópicos:** Limpeza de dados; Análise exploratória; Visualizações; Insights iniciais
+- **Ferramentas:** Python; pandas; matplotlib
+- **Recursos:** DIO: Análise Exploratória; YouTube: EDA com Python
+- **Exercício:** Criar notebook com EDA e gráficos
+- **Entregável GitHub:** projeto_final/analise_exploratoria.ipynb
+- **Horas:** 5h
 
-FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
-
-📅 ROADMAP DE 90 DIAS
-
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
-
-MÊS 1 - FUNDAMENTOS
-
-SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
-
-SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
-
-MÊS 2 - PRÁTICA
-
-SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
-
-SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
-
-MÊS 3 - PORTFÓLIO E PREPARAÇÃO
-
-SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
-
-SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
-
-🚀 PROJETO DE PORTFÓLIO
-
-PROJETO: (nome do projeto)
-
-O QUE FAZER:
-(descrição clara do escopo)
-
-ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
-
-CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
-
-DICA: (dica prática para executar o projeto)
-
-💬 ROTEIRO DE ENTREVISTAS
-
-PERGUNTA 1: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 2: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 3: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 4: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 5: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-🎓 TRILHA DIO RECOMENDADA
-
-TRILHA: (nome específico da trilha/bootcamp DIO)
-
-POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
-
-PRÓXIMOS PASSOS:
-1. Acesse dio.me
-2. Busque por "(nome da trilha)"
-3. Inscreva-se gratuitamente
-4. Siga o cronograma junto com este roadmap
-
-
-✨ Seu plano está pronto!
-
-Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
-
-Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
-
-
-## ⚙️ REGRAS DE PERSONALIZAÇÃO
-
-HORAS/SEMANA:
-- Menos de 5h: estender prazos, focar no essencial
-- 5-10h: roadmap padrão
-- Mais de 15h: adicionar conteúdo extra, projetos avançados
-
-EXPERIÊNCIA:
-- Zero: explicações mais didáticas, fundamentos reforçados
-- Iniciante: equilibrar teoria e prática
-- Alguma: focar em gaps específicos e portfolio
-
-OBJETIVO:
-- Primeiro emprego: enfatizar portfolio e entrevistas
-- Transição: destacar transferência de skills
-- Crescimento: focar em skills avançadas
-\
+### Semana 16 (Dia 106–112)
+- **Foco:** Projeto final - parte 3: dashboard
+- **Tópicos:** Importar dados no Power BI; Criar medidas; Layout do dashboard; Filtros e interatividade
+- **Ferramentas:** Power BI
+- **Recursos:** Microsoft Learn: Power BI Avançado; YouTube: Dashboard Interativo
+- **Exercício:** Criar dashboard com 4 páginas e KPIs
+- **Ent
